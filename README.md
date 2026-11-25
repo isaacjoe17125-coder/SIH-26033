@@ -70,6 +70,7 @@ The solution will be developed as a mobile-first web and Android application. It
 - **Payments:** UPI and supported digital payment gateways.
 
 **Implementation flow:** Farmers/FPOs register and list produce fi Buyers search and place orders fi Platform matches demand and confirms pricing fi Logistics partner collects and delivers produce fi Payment is settled digitally fi Feedback and ratings improve future matching.
+<img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/6ab5f46b-a61c-4748-abdf-2d784d176978" />
 
 ---
 
